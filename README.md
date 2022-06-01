@@ -1,4 +1,4 @@
-# Dogukan-Saral
+# Dogukan Saral
 I'm a Front-End Developer 💻
 </h2>  
 
