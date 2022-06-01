@@ -31,14 +31,6 @@ I'm a Front-End Developer 💻
 
 <a href="https://dogukansaral61@gmail.com"><img align="left" src="https://w7.pngwing.com/pngs/677/315/png-transparent-gmail-computer-icons-email-google-play-gmail-angle-rectangle-triangle.png" alt="Gmail" width="21px"/>dogukansaral61@gmail.com</a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-## 🔭 I'm currently working on
-
-- My old projects
-- My JS skill
-- My Reactjs skill
-- My Vuejs Skill
 
 ## 🌱 I'm currently learning
 
