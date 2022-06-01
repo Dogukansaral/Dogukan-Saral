@@ -29,10 +29,7 @@ I'm a Front-End Developer 💻
 <h3 align="left" dir="auto"><a id="user-content--connect-with-me" class="anchor" aria-hidden="true" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Connect with me:</h3>
 <br>
 
-<a href="https://www.linkedin.com/in/pelinhangisi/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="21px" />   www.linkedin.com/in/pelinhangisi/</a>
-<br>
-
-<a href="https://pelinhangisi@gmail.com"><img align="left" src="https://w7.pngwing.com/pngs/677/315/png-transparent-gmail-computer-icons-email-google-play-gmail-angle-rectangle-triangle.png" alt="Gmail" width="21px"/>pelinhangisi@gmail.com</a>
+<a href="https://dogukansaral61@gmail.com"><img align="left" src="https://w7.pngwing.com/pngs/677/315/png-transparent-gmail-computer-icons-email-google-play-gmail-angle-rectangle-triangle.png" alt="Gmail" width="21px"/>dogukansaral61@gmail.com</a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -54,7 +51,6 @@ I'm a Front-End Developer 💻
 
 
 <p align="left" dir="auto"> <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>  <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a> <a href="#" rel="nofollow"> <img src="https://e7.pngegg.com/pngimages/933/14/png-clipart-java-programming-language-computer-programming-object-oriented-programming-programmer-java-electronics-text.png" alt="java" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;"></a> </a> </p>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 <br>
 <br>
